@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200?text=Pathixo+Pvt.+Ltd.+Banner" alt="Pathixo Banner">
+  <img src="https://media.licdn.com/dms/image/v2/D563DAQGykdFaAxEi0Q/image-scale_191_1128/B56Zxs33tIHUAc-/0/1771353112521/pathixopvtltd_cover?e=1772568000&v=beta&t=e4Caf1uLlcD7LY5todqI3lEjuaHwxYUwQef2QX6rnz0" alt="Pathixo Banner">
 </div>
 
 <h1 align="center">Welcome to Pathixo Pvt. Ltd. 👋</h1>
@@ -30,17 +30,3 @@ Here are some of the tools and technologies powering our solutions:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-## 🌟 Featured Projects
-
-* [**Project Name 1**](https://github.com/pathixo/project1) - A brief 1-2 sentence description of what this AI tool does and why it's awesome.
-* [**Project Name 2**](https://github.com/pathixo/project2) - A brief 1-2 sentence description highlighting the tech stack and problem solved.
-
-## 🤝 Open Source & Contributions
-
-We believe in the power of the community. Check out our public repositories below. If you'd like to contribute, please read our [Contributing Guidelines](link-to-contributing-md) (if applicable).
-
----
-<div align="center">
-  <a href="https://linkedin.com/company/pathixo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/pathixo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-</div>
